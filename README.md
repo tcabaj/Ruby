@@ -1,6 +1,6 @@
 ## Testowanie aplikacji w Ruby, tomcab95@gmail.com
 
-1. [ ] [Notatki z Ruby](ruby.md)
+1. [x] [Notatki z Ruby](ruby.md)
 2. [ ] [Notatki z RSpec](rspec.md)
 3. [ ] [Zadanie 1 (zaliczenie)](/) – deadline 13.11.2016
   - przykładowe projekty na zaliczenie –
